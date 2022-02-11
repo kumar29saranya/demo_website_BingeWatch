@@ -131,7 +131,7 @@ p{
     margin:0 100px;
 }
 
-
+/* PRESS SECTION */
 #press{
     text-align: center;
     background-color:#49274A;
@@ -155,13 +155,12 @@ p{
 .signup-box{
     border:7px solid #94618E;
     background-color:#f8eee7;
-    padding:10% 0%;
+    padding:10%;
 }
 .signup-box:hover{
     border:7px solid #94618E;
     background-color:rgb(0, 0, 0);
     color:rgb(255, 255, 255);
-    padding:10% 0%;
     transform:scale(1.1);
 }
 .signup-text{
@@ -212,6 +211,9 @@ p{
     *{
         text-align:center;
     }
+    .navbar-brand{
+        font-size: 1.5rem;
+    } 
     .title-pic{
         width:40%;
         position: absolute;
@@ -219,20 +221,19 @@ p{
         
     }
     .features-container{
-        padding:40% 15% 10%;
-    }
-    .review-text{
-        
-        text-align:center;
-        
-    }
-    #rating-text{
-        text-align:center;
+        padding:50% 15% 10%;
     }
     .review-image{
         width:70%;
         border-radius:5%;
         margin:0 ;
     }
+    .signup-text{
+        font-size:2rem;
+    }
+    .press-logo{
+        width:40;
+    }
+    
 }
 
