@@ -139,7 +139,7 @@ p{
 }
 
 .press-logo{
-    width:50%;
+    width:35%;
 }
 
 /* Sign up SECTION */
@@ -230,10 +230,8 @@ p{
     }
     .signup-text{
         font-size:2rem;
-    }
-    .press-logo{
-        width:40;
-    }
-    
+        width:100%
+    }   
 }
+
 
